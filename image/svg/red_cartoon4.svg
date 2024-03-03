@@ -1,0 +1,17 @@
+<svg width="121.651367" height="121.054871" viewBox="0 0 121.651 121.055" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_125">
+			<rect id="red_cartoon 4" width="88.320404" height="85.844131" transform="translate(0.000000 50.901367) rotate(-35.192554)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="red_cartoon 4" width="88.320404" height="85.844131" transform="translate(0.000000 50.901367) rotate(-35.192554)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_125)">
+		<path id="Vector" d="M97.0059 34.9559C110.668 54.3282 105.586 81.4273 85.6544 95.4833C65.7233 109.539 38.4907 105.23 24.8287 85.8573C11.1668 66.4849 16.249 39.3859 36.1802 25.3298C56.1114 11.2738 83.344 15.5836 97.0059 34.9559Z" fill="#FAD34F" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M57.1683 40.788C58.0918 42.0975 56.639 42.2187 55.2917 43.1688C53.9444 44.119 53.2143 45.5408 52.2891 44.2289C51.364 42.917 51.7092 41.0874 53.0565 40.1372C54.4022 39.1847 56.2431 39.4761 57.1683 40.788Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M66.4913 34.2131C67.4149 35.5226 65.9621 35.6438 64.6147 36.5939C63.2675 37.5441 62.5374 38.9659 61.6122 37.654C60.687 36.3421 61.0322 34.5125 62.3795 33.5623C63.7252 32.6098 65.5662 32.9012 66.4913 34.2131Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M68.467 41.9342C70.2712 44.4925 69.5999 48.0717 66.9678 49.9279C64.3358 51.7841 60.739 51.2149 58.9348 48.6566C57.1306 46.0983 61.1942 47.3293 63.8262 45.4731C66.4583 43.6169 66.6628 39.3759 68.467 41.9342Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
